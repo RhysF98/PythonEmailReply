@@ -1,4 +1,3 @@
-# PythonEmailReply
 # DMARC EMAIL CHECKER
 # (C) 2019 Global Cyber Alliance
 -----------------------------------------
