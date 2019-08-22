@@ -16,7 +16,7 @@ The whole process between sending an email and receiving a response is ~10 secon
 To use:
 
 1) Run script/ start server
-2) Log in to specified domain using the console (password for dmarcpolicycheck@gmail.com is: _ _chickenorangenotebook)
+2) Log in to specified domain using the console (password for dmarcpolicycheck@gmail.com is: _chickenorangenotebook_)
 3) Send an email from any account to dmarcpolicycheck@gmail.com; email can contain anything (or nothing)
 4) Receipt of the email should appear in the console, no action is needed
 5) After the script detects the DMARC, DKIM, SPF and TLS records/ status, it automatically responds with an email
