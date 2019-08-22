@@ -47,6 +47,6 @@ Extensions/ Limitations:
 
 -----------------------------------------
 
-This program was conceptualised and realised in the space of 24 hours and I have hardly touched it in a week.
+This program was conceptualised and realised in the space of 24 hours and I have hardly touched it in weeks.
 Please be constructive with any criticism, I did this for free ;)
 Personal email: loshaughnessy@globalcyberalliance.org
