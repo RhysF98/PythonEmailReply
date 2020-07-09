@@ -5,7 +5,7 @@
 Currently using: dmarcpolicycheck@gmail.com
 Written in Python 3.6.
 
-The script starts a "server" that receives any emails sent to a specified domain, or any unopened emails already received by that domain. Checks the DMARC, DKIM, SPF and TLS status of the sender's domain, and responds with a summary email.
+The script starts a server that receives any emails sent to a specified domain, or any unopened emails already received by that domain. Checks the DMARC, DKIM, SPF and TLS status of the sender's domain, and responds with a summary email.
 
 IMAP is used to fetch emails, SMTP with TLS is used to send the results email back to the initial sender.
 
@@ -16,7 +16,7 @@ The whole process between sending an email and receiving a response is ~10 secon
 To use:
 
 1) Run script/ start server
-2) Log in to specified domain using the console (password for dmarcpolicycheck@gmail.com is: _chickenorangenotebook_)
+2) Log in to specified domain using the console (password for dmarcpolicycheck@gmail.com is: _dmarc\_check_)
 3) Send an email from any account to dmarcpolicycheck@gmail.com; email can contain anything (or nothing)
 4) Receipt of the email should appear in the console, no action is needed
 5) After the script detects the DMARC, DKIM, SPF and TLS records/ status, it automatically responds with an email
@@ -46,6 +46,5 @@ Extensions/ Limitations:
 
 -----------------------------------------
 
-This program was conceptualised and realised in the space of 24 hours and I have hardly touched it in weeks.
-Please be constructive with any criticism, I did this for free ;)
-Personal email: loshaughnessy@globalcyberalliance.org
+This program was conceptualised and realised in the space of 24 hours.
+Personal email: l.oshaughnessy@gemasecure.com
