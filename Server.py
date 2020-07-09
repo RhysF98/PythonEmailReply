@@ -70,8 +70,7 @@ def start_server():
                                                                                                   "\nHow to improve your company's email security: https://www.dmarc.globalcyberalliance.org" \
                                                                                                   "\nSmall business security Toolkit available for free: https://www.globalcyberalliance.org/gca-cybersecurity-toolkit" \
                                                                                                   "" \
-                                                                                                  "\n\nTo report a bug or any queries, please contact loshaughnessy@globalcyberalliance.org" \
-                                                                                                  "\n© 2019 Global Cyber Alliance. All Rights Reserved."
+                                                                                                  "\n\nTo report a bug or any queries, please contact lewisoshaughnessy99@gmail.com" \
                 msg.set_content(message)
                 print("-- Sending DMARC results summary to sender --")
                 send_email.send_message(msg)
