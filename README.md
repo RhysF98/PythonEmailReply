@@ -2,7 +2,7 @@
 -----------------------------------------
 
 Currently using: dmarcpolicycheck@gmail.com
-Written in Python 3.6.
+Written in Python 3.6 using PyCharm
 
 The script starts a server that receives any emails sent to a specified domain, or any unopened emails already received by that domain. Checks the DMARC, DKIM, SPF and TLS status of the sender's domain, and responds with a summary email.
 
