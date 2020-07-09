@@ -1,5 +1,4 @@
 # DMARC EMAIL CHECKER
-# (C) 2019 Global Cyber Alliance
 -----------------------------------------
 
 Currently using: dmarcpolicycheck@gmail.com
@@ -40,7 +39,7 @@ Extensions/ Limitations:
 
 + Have a configuration (.ini) file to setup the current domain and black-listed email addresses
 
-+ Dockerize the program (Rob's area of expertise)
++ Dockerize the program
 
 + Needs a better name
 
